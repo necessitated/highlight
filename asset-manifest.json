@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/focus/static/css/main.0c63800d.css",
+    "main.js": "/focus/static/js/main.77d9c947.js",
+    "static/js/140.1f92d0fa.chunk.js": "/focus/static/js/140.1f92d0fa.chunk.js",
+    "static/js/546.1216d865.chunk.js": "/focus/static/js/546.1216d865.chunk.js",
+    "static/js/834.b319f901.chunk.js": "/focus/static/js/834.b319f901.chunk.js",
+    "static/js/348.3eac048e.chunk.js": "/focus/static/js/348.3eac048e.chunk.js",
+    "static/js/255.3f204082.chunk.js": "/focus/static/js/255.3f204082.chunk.js",
+    "static/js/262.25adcac5.chunk.js": "/focus/static/js/262.25adcac5.chunk.js",
+    "static/js/189.6974fef3.chunk.js": "/focus/static/js/189.6974fef3.chunk.js",
+    "static/js/693.b1d126f8.chunk.js": "/focus/static/js/693.b1d126f8.chunk.js",
+    "static/js/206.04743bf7.chunk.js": "/focus/static/js/206.04743bf7.chunk.js",
+    "service-worker.js": "/focus/service-worker.js",
+    "index.html": "/focus/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.0c63800d.css",
+    "static/js/main.77d9c947.js"
+  ]
+}
