@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/focus/static/css/main.0c63800d.css",
-    "main.js": "/focus/static/js/main.ede2d811.js",
-    "static/js/140.1f92d0fa.chunk.js": "/focus/static/js/140.1f92d0fa.chunk.js",
-    "static/js/546.1216d865.chunk.js": "/focus/static/js/546.1216d865.chunk.js",
-    "static/js/834.b319f901.chunk.js": "/focus/static/js/834.b319f901.chunk.js",
-    "static/js/348.3eac048e.chunk.js": "/focus/static/js/348.3eac048e.chunk.js",
-    "static/js/255.3f204082.chunk.js": "/focus/static/js/255.3f204082.chunk.js",
-    "static/js/262.25adcac5.chunk.js": "/focus/static/js/262.25adcac5.chunk.js",
-    "static/js/189.6974fef3.chunk.js": "/focus/static/js/189.6974fef3.chunk.js",
-    "static/js/693.b1d126f8.chunk.js": "/focus/static/js/693.b1d126f8.chunk.js",
-    "static/js/206.04743bf7.chunk.js": "/focus/static/js/206.04743bf7.chunk.js",
-    "service-worker.js": "/focus/service-worker.js",
-    "index.html": "/focus/index.html"
+    "main.css": "/spotlight/static/css/main.0c63800d.css",
+    "main.js": "/spotlight/static/js/main.59688379.js",
+    "static/js/140.e44d00a0.chunk.js": "/spotlight/static/js/140.e44d00a0.chunk.js",
+    "static/js/546.01ef319b.chunk.js": "/spotlight/static/js/546.01ef319b.chunk.js",
+    "static/js/834.b4b3b481.chunk.js": "/spotlight/static/js/834.b4b3b481.chunk.js",
+    "static/js/348.dca79ce5.chunk.js": "/spotlight/static/js/348.dca79ce5.chunk.js",
+    "static/js/255.5fb9fe44.chunk.js": "/spotlight/static/js/255.5fb9fe44.chunk.js",
+    "static/js/262.9f6e1197.chunk.js": "/spotlight/static/js/262.9f6e1197.chunk.js",
+    "static/js/189.c65d26a9.chunk.js": "/spotlight/static/js/189.c65d26a9.chunk.js",
+    "static/js/693.2071b9db.chunk.js": "/spotlight/static/js/693.2071b9db.chunk.js",
+    "static/js/206.2af99954.chunk.js": "/spotlight/static/js/206.2af99954.chunk.js",
+    "service-worker.js": "/spotlight/service-worker.js",
+    "index.html": "/spotlight/index.html"
   },
   "entrypoints": [
     "static/css/main.0c63800d.css",
-    "static/js/main.ede2d811.js"
+    "static/js/main.59688379.js"
   ]
 }
