@@ -16,6 +16,12 @@
 /*!__STENCIL_STATIC_IMPORT_SWITCH__*/
 
 /**
+ * @license
+ * Copyright 2010-2025 Three.js Authors
+ * SPDX-License-Identifier: MIT
+ */
+
+/**
  * @license React
  * react-dom.production.min.js
  *
